@@ -156,7 +156,7 @@ body {
 }
 
 .alex_description {
-    padding: 15px 10px;
+  padding: 15px 10px;
 }
 
 .alex_description h1 {
@@ -166,9 +166,11 @@ body {
 }
 
 .alex_description p {
-    font-size: 14px;
-    color: #666;
-    line-height: 1.4;
+  font-family: 'Georgia', serif;
+  text-align: left;
+  font-size: 14px;
+  color: #666;
+  line-height: 1.4;
 }
 
 .pavlo_f {
@@ -204,6 +206,8 @@ body {
 }
 
 .pavlo_description p {
+  font-family: 'Georgia', serif;
+  text-align: left;
   font-size: 14px;
   color: #666;
   line-height: 1.4;
